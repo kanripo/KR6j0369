@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 修習般若波羅蜜菩薩觀行念誦儀軌
+#+DATE: 2015-08-30 20:31:05.691895
+#+PROPERTY: JUAN 0
